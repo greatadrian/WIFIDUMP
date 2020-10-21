@@ -12,7 +12,7 @@ __        _____ _____ ___ ____  _   _ __  __ ____
                                                    
            
 Author: greatadrian
-Telegram, instagram, github : @greatadrian
+Telegram, github : @greatadrian
 Wifi Profiles and Password Dumper for windows  (windows tested)
 Run the application as administrator to see the clear-text passwords.
 
